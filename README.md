@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Robin Skhdeve</h1>
+<h1 align="center">Hi 👋, I'm Robin Sukhdeve</h1>
 - 🌱 I’m currently learning **Data Structures and Algorithms**
 
 - 📫 How to reach me **robinsukhdeve@gmail.com**
